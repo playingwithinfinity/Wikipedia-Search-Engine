@@ -1,0 +1,23 @@
+#searchEngine{
+  margin:20px;
+}
+#search{
+  margin:10px;
+  background: black;
+  color: white;
+}
+#random{
+  margin:10px;
+  background:#996699;
+  color:white;
+}
+p{
+  color:white;
+}
+h1{
+  font-family:Roboto;
+}
+.white-text{
+  color:white;
+}
+
